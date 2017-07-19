@@ -1,11 +1,15 @@
 # AWS X-Ray
 
-### Intro to Lambda function tracing
-> (for nodejs)
+<br>
+<span style="color:gray">Intro to Lambda function tracing</span>
+<br>
+<span style="color:gray">(Node.js)</span>
 
 ---
 
-## How can you see what part(s) of your app are
-   ... slow?
-   ... generating errors?
-   ... using a particular AWS service?
+## How can you know which part(s) of your service are
+  - slow?
+  - generating error responses?
+  - using a particular AWS service?
+
+---
